@@ -1,1 +1,7 @@
-<?php echo "here";?>
+<?php
+function writeMsg() {
+  echo "Hello world!";
+}
+
+writeMsg(); 
+?> 
